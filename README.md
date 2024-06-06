@@ -4,7 +4,7 @@ In this assignment, I tried understanding scalar pipelined processor by simulati
  1. Compile the cpp file LAB8 using:
            `g++ main.cpp`
  2. After Compiling, use the command : `.\a.exe .\ICache.txt .\DCache.txt .\RF.txt .\DCache.txt .\Output.txt` <br>
-     (output folder should be present in the directory before using this command)
+  
  
 ### Architecture's Components' equivalents in our model
 * I have declared variables for all the the 5 cycles, Fetch, Decode, Execute, Memory Access and Write Back. Along with these, I have declared 5 bool variables to check whether I have an instruction to do for that stage in a particular cycle.
