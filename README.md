@@ -3,7 +3,7 @@ In this assignment, I tried understanding scalar pipelined processor by simulati
 ### How to run the code
  1. Compile the cpp file LAB8 using:
            `g++ main.cpp`
- 2. After Compiling, use the command : `.\a.exe .\input\ICache.txt .\input\DCache.txt .\input\RF.txt .\output\DCache.txt .\output\Output.txt` <br>
+ 2. After Compiling, use the command : `.\a.exe .\ICache.txt .\DCache.txt .\RF.txt .\DCache.txt .\Output.txt` <br>
      (output folder should be present in the directory before using this command)
  
 ### Architecture's Components' equivalents in our model
