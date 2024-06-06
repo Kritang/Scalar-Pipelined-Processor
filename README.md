@@ -1,5 +1,5 @@
-## Understanding the working of a scalar pipelined processor (CS22B012, CS22B066)
-In this lab, we tried understanding scalar pipelined processor by simulating the different components at the software level, and using the c++ language for implementation.
+## Understanding the working of a scalar pipelined processor 
+In this assignment, I tried understanding scalar pipelined processor by simulating the different components at the software level, and using the c++ language for implementation.
 ### How to run the code
  1. Compile the cpp file LAB8 using:
            `g++ main.cpp`
